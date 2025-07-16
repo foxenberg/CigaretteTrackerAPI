@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+CigaretteTrackerAPI/*firebase-adminsdk*.json
+CigaretteTrackerAPI/cigarettetracker-56877-firebase-adminsdk-fbsvc-4f23d4259e.json
