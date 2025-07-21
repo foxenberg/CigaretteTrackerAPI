@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Initialize Firebase
 FirebaseApp.Create(new AppOptions()
 {
-    Credential = GoogleCredential.FromFile("firebase-adminsdk.json")
+    Credential = GoogleCredential.FromFile("cigarettetracker-56877-firebase-adminsdk-fbsvc-4f23d4259e.json")
 });
 
 // Add services
